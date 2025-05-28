@@ -1,0 +1,21 @@
+{
+  "authors": [
+    "SaschaMann",
+    "cmcaine"
+  ],
+  "files": {
+    "solution": [
+      "alphametics.jl"
+    ],
+    "test": [
+      "runtests.jl"
+    ],
+    "example": [
+      ".meta/example.jl"
+    ],
+    "editor": [
+      "permutations.jl"
+    ]
+  },
+  "blurb": "Given an alphametics puzzle, find the correct solution."
+}
