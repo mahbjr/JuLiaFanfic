@@ -5,7 +5,7 @@ If you need help running the tests or submitting your code, check out `HELP.md`.
 
 ## Introduction
 
-You've just been hired as professor of mathematics.
+You've just been hired as professor of mathematics..
 Your first week went well, but something is off in your second week.
 The problem is that every answer given by your students is wrong!
 Luckily, your math skills have allowed you to identify the problem: the student answers _are_ correct, but they're all in base 2 (binary)!
