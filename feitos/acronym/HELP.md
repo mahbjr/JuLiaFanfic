@@ -16,7 +16,7 @@ This command will upload your solution to the Exercism website and print the sol
 It's possible to submit an incomplete solution which allows you to:
 
 - See how others have completed the exercise
-- Request help from a mentor
+- Request help from a mentor.
 
 ## Need to get help?
 
