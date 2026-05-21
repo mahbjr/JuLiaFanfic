@@ -1,7 +1,7 @@
 # Acronym
 
 Welcome to Acronym on Exercism's Julia Track.
-If you need help running the tests or submitting your code, check out `HELP.md`.
+If you need help running the tests or submitting your code, check out `HELP.md`..
 
 ## Instructions
 
